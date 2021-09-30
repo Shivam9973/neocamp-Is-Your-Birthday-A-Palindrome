@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: cyan;
+    padding: 4rem;
+    font-size: x-large;
+    margin: auto;
+}
+
+#show-btn {
+    display: block;
+    margin: auto;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    border-radius: 0.4rem;
+    font-size: medium;
+    background-color: cyan;
+    margin-top: 2rem;
+}
+
+#birthday-input {
+    background-color: black;
+    color: cyan;
+}
+
+#emoji {
+    font-size: xx-large;
+    padding: 0.5rem
+}
+
+#result {
+    margin: 5rem;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 1rem;
+}
+
+.footer {
+    color: cyan;
+    padding: 1rem 05rem;
+    text-align: center;
+    font-size: large;
+    margin-top: 5%;
+}
+
+.footer .link {
+    color: cyan;
+    font-size: large;
+}
+
+.footer .social-link {
+    font-size: larger;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
+
+.footer .footer-header {
+    font-weight: bolder;
+    font-size: large;
+    color: cyan;
+    padding-top: 1rem;
+}
