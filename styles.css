@@ -1,7 +1,7 @@
 body {
-    background-color: black;
+    background-color: #cfe49d;
     text-align: center;
-    color: cyan;
+    color: #1d3c45;
     padding: 4rem;
     font-size: x-large;
     margin: auto;
@@ -16,13 +16,13 @@ body {
     padding-left: 0.5rem;
     border-radius: 0.4rem;
     font-size: medium;
-    background-color: cyan;
+    background-color: rgb(161, 155, 155);
     margin-top: 2rem;
 }
 
 #birthday-input {
-    background-color: black;
-    color: cyan;
+    background-color: rgb(161, 155, 155);
+    color: #1d3c45;
 }
 
 #emoji {
@@ -31,6 +31,8 @@ body {
 }
 
 #result {
+    font-size: larger;
+    font-weight: bolder;
     margin: 5rem;
 }
 
@@ -49,7 +51,7 @@ body {
 }
 
 .footer {
-    color: cyan;
+    color: #1d3c45;
     padding: 1rem 05rem;
     text-align: center;
     font-size: large;
@@ -57,8 +59,9 @@ body {
 }
 
 .footer .link {
-    color: cyan;
-    font-size: large;
+    font-weight: bolder;
+    color: #1d3c45;
+    font-size: larger;
 }
 
 .footer .social-link {
@@ -71,7 +74,7 @@ body {
 
 .footer .footer-header {
     font-weight: bolder;
-    font-size: large;
-    color: cyan;
+    font-size: larger;
+    color: #1d3c45;
     padding-top: 1rem;
 }
